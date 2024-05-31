@@ -1,0 +1,3 @@
+/Users/Brian/Documents/D022brepo/D022b_projects_and_code/cmake-build-debug/CMakeFiles/D022b_projects_and_code.dir
+/Users/Brian/Documents/D022brepo/D022b_projects_and_code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Brian/Documents/D022brepo/D022b_projects_and_code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
