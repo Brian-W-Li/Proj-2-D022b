@@ -1,4 +1,6 @@
 #include "/Users/Brian/Documents/D022b projects and code/Proj 2 D022b/Variable.h"
+#include "Variable.h"
+
 
 using namespace std;
 
@@ -22,5 +24,4 @@ void Variable::SetValue(int newValue){
 void Variable::PrintNameAndValue(){
     cout << name << "(" << value << ")" << endl;
 }
-
 
